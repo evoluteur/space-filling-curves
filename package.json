@@ -1,0 +1,22 @@
+{
+  "name": "space-filling-curves",
+  "version": "1.0.0",
+  "description": "Space-Filling Curves: one line that visits every cell of a square. Draw the Hilbert, Peano, Moore, Gosper flowsnake, Sierpinski, dragon, Levy C and Z-order curves level by level, and download them as SVG or PNG.",
+  "repository": "github:evoluteur/space-filling-curves",
+  "homepage": "https://evoluteur.github.io/space-filling-curves/",
+  "copyright": "(c) 2026 Olivier Giulieri",
+  "author": "Olivier Giulieri (https://evoluteur.github.io/)",
+  "license": "MIT",
+  "keywords": [
+    "space-filling-curve",
+    "hilbert-curve",
+    "peano-curve",
+    "gosper-curve",
+    "dragon-curve",
+    "sierpinski",
+    "l-system",
+    "fractal",
+    "generative-art",
+    "svg"
+  ]
+}
